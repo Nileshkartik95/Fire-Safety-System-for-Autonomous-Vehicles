@@ -184,6 +184,8 @@ last once the transmission is done slave receives the stop bit
 
 ![image](https://user-images.githubusercontent.com/112504087/211224292-3edad554-5571-4f9d-9728-43ef2e080a00.png)
 
+![prj](https://user-images.githubusercontent.com/112504087/211224427-78530a35-eb4a-4709-ade5-26beb8af4f43.jpg)
+
 
 
 
